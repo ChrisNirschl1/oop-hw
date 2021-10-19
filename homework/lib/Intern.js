@@ -10,6 +10,7 @@ class Intern extends Employee{
     getSchool(){
         return this.school;
     }
+    //overwirtes generic employee
     getRole(){
         return 'Intern'
     }

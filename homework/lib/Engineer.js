@@ -10,6 +10,7 @@ class Engineer extends Employee{
     getGithub(){
         return this.github;
     }
+    //overwirtes generic employee
     getRole(){
         return 'Engineer'
     }

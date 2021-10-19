@@ -1,4 +1,13 @@
 # oop-hw
+
+
+Wanted to build a team generator in the command line. Ran out of time getting the html to populate and everything to pull throuugh inquerer but am very close. Passed all test. All command line, so no deployed site. 
+
+Video walkthrough of the finctionality:
+https://watch.screencastify.com/v/SDEQbzobWYoqbcobakZp
+
+
+
 ## Your Task
 
 Your task is to build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Testing is key to making code maintainable, so you’ll also write a unit test for every part of your code and ensure that it passes each test.
@@ -173,3 +182,5 @@ You are required to submit the following for review:
 * A sample HTML file generated using your application.
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
+
+file:///Users/christiannirschl/Downloads/Untitled_%20Oct%2018,%202021%2011_40%20PM.webm

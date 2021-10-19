@@ -10,6 +10,7 @@ class Manager extends Employee {
     getOfficeNumber(){
         return this.officeNumber
     }
+    //overwirtes generic employee
     getRole(){
         return 'Manager'
     }
