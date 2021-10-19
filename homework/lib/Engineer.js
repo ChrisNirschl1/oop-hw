@@ -8,7 +8,10 @@ class Engineer extends Employee{
     this.roll = 'Engineer';
     }
     getGithub(){
-        return this.getGithub;
+        return this.github;
+    }
+    getRole(){
+        return 'Engineer'
     }
 }
 
