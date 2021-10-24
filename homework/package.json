@@ -14,6 +14,7 @@
   "dependencies": {
     "inquirer": "^8.2.0",
     "jest": "^27.3.0",
+    "path": "^0.12.7",
     "util": "^0.12.4"
   },
   "description": ""
